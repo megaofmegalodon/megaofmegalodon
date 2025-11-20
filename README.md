@@ -14,11 +14,15 @@ human being who can code a bit
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+</div>
+
+<div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webpack/webpack-original.svg" width="40" height="40 />
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/electron/electron-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/electron/electron-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/electron/electron-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" width="40" height="40" />
 </div>
