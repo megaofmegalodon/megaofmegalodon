@@ -6,12 +6,12 @@ i mainly focus on backend and full-stack web development but do dabble in other 
 ### Languages / Frameworks / Other Nerd Stuff
 **Languages:**  
 - TypeScript / JavaScript
-- Node.js
 - Java
 - C
 
-**Frameworks & Tools:**  
-- React.js  
+**Frameworks & Tools:**
+- Node.js
+- React.js
 - Electron  
 - MongoDB
 
